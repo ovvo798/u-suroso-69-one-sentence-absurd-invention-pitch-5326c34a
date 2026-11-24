@@ -8,9 +8,9 @@ tiny everyday annoyance to /output/entry.txt. Standard library only.
 import os
 
 ENTRY = (
-    "Meet the Umbrella That Holds a Grudge: a rain umbrella that remembers "
-    "every time you abandon it on the bus and sulks in the hallway until "
-    "you apologise to it in writing."
+    "The Grudge Umbrella: it remembers every time you abandon it on the "
+    "bus and refuses to open again until you apologise to it in writing, "
+    "in triplicate."
 )
 
 
